@@ -17,7 +17,7 @@ This project was created to test my knowledge of:
 There is nothing to install for this project. Simply visit this link: [Ari's CV](https://arihecht.github.io/MyCV/).
 
 ## Usage
-This is a static webpage. The webpage will look like this: ![Screenshot of Netflix Copy Webpage](https://i.imgur.com/rvf9u8Z.png)
+This is a static webpage. The webpage will look like this: ![Screenshot of Ari's CV](https://i.imgur.com/rvf9u8Z.png)
 
 ## Credits
 [Ari Hecht](https://github.com/Arihecht)
